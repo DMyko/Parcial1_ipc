@@ -1,0 +1,4 @@
+Dados: 1 y 6
+Dados: 3 y 7
+Dados: 4 y 4
+Dados: 6 y 6

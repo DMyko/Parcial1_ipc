@@ -1,0 +1,7 @@
+Nombre del estudiante: Mynor
+Matem tica, nota: 100.00
+Lenguaje, nota: 90.00
+Qu¡mica, nota: 80.00
+F¡sica, nota: 100.00
+Programacion, nota: 69.00
+Promedio: 87.80
